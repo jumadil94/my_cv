@@ -1,2 +1,3 @@
 # my_cv
-portfolioku
+#Task01
+belajar javascript
